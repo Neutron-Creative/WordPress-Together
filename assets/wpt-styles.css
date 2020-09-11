@@ -1,0 +1,27 @@
+#togetherjs-dock-anchor-horizontal {
+    display: none;
+}
+#togetherjs-dock-anchor {
+    display: none;
+}
+#togetherjs-dock {
+    background-color: #5353EC;
+    height: auto !important;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.togetherjs #togetherjs-buttons #togetherjs-share-button.togetherjs-active {
+    background-color: #4242DB !important;
+}
+.togetherjs .togetherjs-window > header {
+    background-color: #5353EC !important;
+}
+.togetherjs-person.togetherjs-person-self {
+    background-image: url('<?php echo get_avatar_url( wp_get_current_user()->ID ); ?>') !important;
+}
+.togetherjs-button {
+    cursor: pointer;
+}
+.togetherjs-button:hover {
+    background-color: #4242DB !important;
+}
