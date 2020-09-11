@@ -14,7 +14,7 @@
 * @since 1.0.0
 */
 
-function add_wpt_button() {
+function add_wpt_button($admin_bar) {
     $admin_bar->add_menu( array( 'id'=>'start-collab','title'=>'Begin collaboration','href'=>'#' ) );
 }
 
