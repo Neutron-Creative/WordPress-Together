@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Beautiful-FOSS/.idea/Beautiful-FOSS.iml" filepath="$PROJECT_DIR$/../Beautiful-FOSS/.idea/Beautiful-FOSS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/WordPress-Together.iml" filepath="$PROJECT_DIR$/.idea/WordPress-Together.iml" />
     </modules>
   </component>
