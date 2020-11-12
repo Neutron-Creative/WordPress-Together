@@ -40,7 +40,7 @@
     // The name of this tool as provided to users.  The UI is updated to use this.
     // Because of how it is used in text it should be a proper noun, e.g.,
     // "MySite's Collaboration Tool"
-    toolName: null,
+    toolName: "WordPress Together",
     // Used to auto-start TogetherJS with a {prefix: pageName, max: participants}
     // Also with findRoom: "roomName" it will connect to the given room name
     findRoom: null,
